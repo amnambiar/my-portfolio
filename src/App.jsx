@@ -368,7 +368,7 @@ export default function App() {
       <div id="hero" className="hero">
         <div className="hero-number" aria-hidden>14</div>
         <div className="hero-photo-wrap">
-          <img src="/anusree.jpeg" alt="Anusree M Nambiar" className="hero-photo" />
+          <img src="./anusree.jpeg" alt="Anusree M Nambiar" className="hero-photo" />
         </div>
         <FadeIn delay={100}>
           <div className="hero-eyebrow">Front-end Engineer & Consultant</div>
